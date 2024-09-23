@@ -1,6 +1,6 @@
 # <h1 align="center"> Anastasios Grammenos </h1>
 
-### <h1 align="center"> 👨‍💻 Developer | 🔌 Electrical & Computer Engineer </h1>
+### <h1 align="center">👨‍💻Developer |🔌Electrical & Computer Engineer </h1>
 
 Welcome to my GitHub profile! I'm a passionate developer and electrical & computer engineer specializing in embedded systems and FPGA development.
 
