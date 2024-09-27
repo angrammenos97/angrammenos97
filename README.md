@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer and electrical & comput
 
 ### 📫 Get in Touch
 
-- LinkedIn: [in/angrammenos](www.linkedin.com/in/angrammenos)
+- LinkedIn: [in/angrammenos](https://www.linkedin.com/in/angrammenos/)
 - Email: angrammenos97@gmail.com
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations or interesting tech discussions!
