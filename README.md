@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer and electrical & comput
 - 💼 Currently working as an Electronics Engineer at [Cogninn](https://cogninn.com/)
 - 🛠️ Experience in FPGA prototyping, embedded systems, and AI integration
 - 🏎️ Former Embedded System Designer for [Aristotle University Racing Team Electric and Driverless](https://www.aristurtle.gr/)
+    - Check out my contribution [here](https://gist.github.com/angrammenos97/4ceeb8de2a8631e5f19d91a30b6bc986).
 
 ### 💻 Technical Skills
 
