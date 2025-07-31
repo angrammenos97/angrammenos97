@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer and electrical & comput
 ### 🚀 About Me
 - 🎓 Master's Degree in Electrical and Computer Engineering
     - Check some of the assignments at [this](https://github.com/angrammenos97/ece_projects.git) repository
-- 💼 Currently working as an Electronics Engineer at [Cogninn](https://cogninn.com/)
+- 💼 Currently working as an Embedded Software Engineer at [Nokia]([https://cogninn.com/](https://www.nokia.com/careers/our-locations/greece/))
 - 🛠️ Experience in FPGA prototyping, embedded systems, and AI integration
 - 🏎️ Former Embedded System Designer for [Aristotle University Racing Team Electric and Driverless](https://www.aristurtle.gr/)
     - Check out my contribution [here](https://gist.github.com/angrammenos97/4ceeb8de2a8631e5f19d91a30b6bc986).
